@@ -1,4 +1,4 @@
-# List of Cool ThreeJS Projects
+# List of Cool WebGL Projects
 
 ---
 
